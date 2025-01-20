@@ -3409,8 +3409,10 @@ img.u-pull-left {
 
 .about-info__pic {
     object-fit     : cover;
-    margin         : 0;
+    width: 30vw;
+    margin : 5vw;
     vertical-align : bottom;
+
 }
 
 .about-info__text {
